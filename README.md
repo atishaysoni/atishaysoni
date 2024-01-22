@@ -1,12 +1,12 @@
 # Hello, I'm Atishay Soni 👋
 
-🌐 Web Developer | 🎓 Computer Science student
+🌐 Web Developer | 🎓 Computer Science student | 🧑‍💻 Coding Enthusiast
 
 ### About Me
 
-- 🌱 I’m currently a sophomore at Netaji Subhas University of Technology.
+- 🏫 I’m currently a sophomore at Netaji Subhas University of Technology.
 - 💻 I'm passionate about coding and open source.
-- I'm currently learning web development.
+- 🕸️ I'm currently learning web development.
 
 ### Skills
 
