@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hello, I'm Atishay Soni 👋
 
-<!--
-**atishaysoni/atishaysoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Web Developer | 🎓 Computer Science student
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently a sophomore at Netaji Subhas University of Technology.
+- 💻 I'm passionate about coding and open source.
+
+### Skills
+
+java | C/C+ | Python | JavaScript | PHP | HTML | CSS | XML | ReactJs | NodeJs | MongoDB | MySQL
+
+### Projects
+
+- [Weather app](https://github.com/atishaysoni/Weather-app)
+- [Music Player](https://github.com/atishaysoni/Music-Player)
+- [Text to Speech converter](https://github.com/atishaysoni/Text-to-Speech)
+
+### Contact
+
+- [LinkedIn](https://www.linkedin.com/in/atishaysoni1801/)
+- [Email](mailto:atishaysoni1801@gmail.com)
+
+
