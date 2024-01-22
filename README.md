@@ -31,8 +31,7 @@
 - [Text to Speech converter](https://github.com/atishaysoni/Text-to-Speech)
 
 ### Contact
-
-- [LinkedIn](https://www.linkedin.com/in/atishaysoni1801/)
-- [Email](mailto:atishaysoni1801@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atishaysoni1801/)
+[![Email](https://img.shields.io/badge/Email-%23D14836?logo=gmail&logoColor=white)](mailto:atishaysoni801@gmail.com)
 
 
