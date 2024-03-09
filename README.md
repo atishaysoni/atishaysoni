@@ -28,6 +28,7 @@
 
 - [Weather app](https://github.com/atishaysoni/Weather-app)
 - [Music Player](https://github.com/atishaysoni/Music-Player)
+- [Text to Speech](https://github.com/atishaysoni/Text-to-Speech)
 
 ### Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atishaysoni1801/)
