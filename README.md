@@ -26,6 +26,7 @@
 
 ### Projects
 
+- [Notes Maker](https://github.com/atishaysoni/Notes-Maker)
 - [Weather app](https://github.com/atishaysoni/Weather-app)
 - [Music Player](https://github.com/atishaysoni/Music-Player)
 - [Text to Speech](https://github.com/atishaysoni/Text-to-Speech)
