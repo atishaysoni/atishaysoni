@@ -29,7 +29,7 @@
 
 ### Projects
 
-- [Notes Maker](https://notes-maker-client.vercel.app)
+- [Notes Maker](https://github.com/atishaysoni/Notes-Maker)
 - [Weather app](https://github.com/atishaysoni/Weather-app)
 - [Music Player](https://github.com/atishaysoni/Music-Player)
 - [Single Page Portfolio](https://github.com/atishaysoni/Single-Page-Portfolio)
