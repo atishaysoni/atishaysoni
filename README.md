@@ -1,12 +1,12 @@
 # Hello, I'm Atishay Soni 👋
 
-🌐 Web Developer | 🎓 Computer Science student | 🧑‍💻 Coding Enthusiast
+🌐 MERN Stack Developer | 🎓 Computer Science student | 🧑‍💻 Coding Enthusiast
 
 ### About Me
 
 - 🏫 I’m currently a third-year engineering student at Netaji Subhas University of Technology.
 - 💻 I'm passionate about coding and open source.
-- 🕸️ I'm currently learning web development.
+- 🕸️ I'm like developing full stack applications using MERN stack.
 
 ### Skills
 
@@ -24,6 +24,7 @@
 ![NodeJs](https://img.shields.io/badge/NodeJs-%23339933?logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?logo=express.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?logo=mongodb&logoColor=white)
+![Microsoft Azure](https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1?logo=mysql&logoColor=white)
 
 
